@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **umeshsanap2809@gmail.com**
 
-- ⚡ Fun fact **I know my face is very serious but my friends told to me that I am look funny.😂**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/umesh sanap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umesh sanap" height="30" width="40" /></a>
